@@ -1,0 +1,7 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT101\obj\Debug\HOT101.csproj.AssemblyReference.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT101\obj\Debug\HOT101.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT101\bin\Debug\HOT101.exe.config
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT101\bin\Debug\HOT101.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT101\bin\Debug\HOT101.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT101\obj\Debug\HOT101.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT101\obj\Debug\HOT101.pdb
