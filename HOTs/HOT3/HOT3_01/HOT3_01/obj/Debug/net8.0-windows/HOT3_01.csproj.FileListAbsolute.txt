@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\bin\Debug\net8.0-windows\HOT3_01.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\bin\Debug\net8.0-windows\HOT3_01.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\bin\Debug\net8.0-windows\HOT3_01.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\bin\Debug\net8.0-windows\HOT3_01.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\bin\Debug\net8.0-windows\HOT3_01.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.Form1.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\refint\HOT3_01.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\HOT3_01.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT3\HOT3_01\HOT3_01\obj\Debug\net8.0-windows\ref\HOT3_01.dll
