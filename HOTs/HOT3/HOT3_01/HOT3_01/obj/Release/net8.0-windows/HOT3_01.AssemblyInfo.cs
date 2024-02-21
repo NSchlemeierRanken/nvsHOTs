@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HOT3_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3eabf8d00568bec169f11667955c293461b79dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04614e91133d3ae332eec3cec9eb644868d89e64")]
 [assembly: System.Reflection.AssemblyProductAttribute("HOT3_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HOT3_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
