@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT5\\Card Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6212B50-67A2-4B44-B01E-3EA4FD3DB12E}|Card Store\\Card Store.csproj|c:\\users\\nathan schlemeier\\desktop\\nvshots\\hots\\hot5\\card store\\card store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6212B50-67A2-4B44-B01E-3EA4FD3DB12E}|Card Store\\Card Store.csproj|solutionrelative:card store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6212B50-67A2-4B44-B01E-3EA4FD3DB12E}|Card Store\\Card Store.csproj|C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT5\\Card Store\\card store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D6212B50-67A2-4B44-B01E-3EA4FD3DB12E}|Card Store\\Card Store.csproj|solutionrelative:card store\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT5\\Card Store\\Card Store\\Form1.cs",
+              "RelativeDocumentMoniker": "Card Store\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT5\\Card Store\\Card Store\\Form1.cs [Design]",
+              "RelativeToolTip": "Card Store\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T06:37:50.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT5\\Card Store\\Card Store\\Form1.cs",
+              "RelativeDocumentMoniker": "Card Store\\Form1.cs",
+              "ToolTip": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT5\\Card Store\\Card Store\\Form1.cs",
+              "RelativeToolTip": "Card Store\\Form1.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAwwKcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T05:59:13.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

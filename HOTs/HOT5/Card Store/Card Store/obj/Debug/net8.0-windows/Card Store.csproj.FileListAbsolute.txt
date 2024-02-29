@@ -1,0 +1,18 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\bin\Debug\net8.0-windows\Card Store.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\bin\Debug\net8.0-windows\Card Store.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\bin\Debug\net8.0-windows\Card Store.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\bin\Debug\net8.0-windows\Card Store.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\bin\Debug\net8.0-windows\Card Store.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card_Store.frmCardStore.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\refint\Card Store.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card Store.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\ref\Card Store.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT5\Card Store\Card Store\obj\Debug\net8.0-windows\Card_Store.Properties.Resources.resources
