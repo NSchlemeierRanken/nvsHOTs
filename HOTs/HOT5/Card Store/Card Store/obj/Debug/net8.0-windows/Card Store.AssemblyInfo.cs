@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Card Store")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b41bcd14a04b6fb15d78e943c01873f1e387a8ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cbe4be25e2dd4df01e54062260daa7aac0f1b0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Card Store")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Card Store")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

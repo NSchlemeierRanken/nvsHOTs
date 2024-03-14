@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\bin\Debug\net8.0-windows\EX2.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\bin\Debug\net8.0-windows\EX2.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\bin\Debug\net8.0-windows\EX2.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\bin\Debug\net8.0-windows\EX2.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\bin\Debug\net8.0-windows\EX2.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\refint\EX2.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\ref\EX2.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT6\EX2\EX2\obj\Debug\net8.0-windows\EX2.Network_Scanner.resources
