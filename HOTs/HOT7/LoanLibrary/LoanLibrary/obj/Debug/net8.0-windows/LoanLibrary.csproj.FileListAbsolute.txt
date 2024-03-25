@@ -1,0 +1,17 @@
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.frmBankLoan.resources
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.csproj.GenerateResource.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.AssemblyInfoInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.AssemblyInfo.cs
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.sourcelink.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\bin\Debug\net8.0-windows\LoanLibrary.exe
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\bin\Debug\net8.0-windows\LoanLibrary.deps.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\bin\Debug\net8.0-windows\LoanLibrary.runtimeconfig.json
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\bin\Debug\net8.0-windows\LoanLibrary.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\bin\Debug\net8.0-windows\LoanLibrary.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\refint\LoanLibrary.dll
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.pdb
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\LoanLibrary.genruntimeconfig.cache
+C:\Users\Nathan Schlemeier\Desktop\nvsHOTs\HOTs\HOT7\LoanLibrary\LoanLibrary\obj\Debug\net8.0-windows\ref\LoanLibrary.dll
