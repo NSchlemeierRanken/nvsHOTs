@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{DEF2BEC7-4F09-4B0E-8D92-9C071A432D6D}|HOT4_01\\HOT4_01.csproj|solutionrelative:hot4_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF2BEC7-4F09-4B0E-8D92-9C071A432D6D}|HOT4_01\\HOT4_01.csproj|c:\\users\\nathan schlemeier\\desktop\\nvshots\\hots\\hot4\\hot4_01\\hot4_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DEF2BEC7-4F09-4B0E-8D92-9C071A432D6D}|HOT4_01\\HOT4_01.csproj|C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT4\\HOT4_01\\hot4_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DEF2BEC7-4F09-4B0E-8D92-9C071A432D6D}|HOT4_01\\HOT4_01.csproj|solutionrelative:hot4_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "HOT4_01\\Form1.cs",
               "ToolTip": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT4\\HOT4_01\\HOT4_01\\Form1.cs",
               "RelativeToolTip": "HOT4_01\\Form1.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAUwAoAAAB1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-21T03:02:16.272Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\Nathan Schlemeier\\Desktop\\nvsHOTs\\HOTs\\HOT4\\HOT4_01\\HOT4_01\\Form1.cs [Design]",
               "RelativeToolTip": "HOT4_01\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-21T02:51:03.345Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-02-21T02:51:03.345Z"
             }
           ]
         }
